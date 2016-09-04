@@ -1,7 +1,7 @@
 {
-  "name": "haml-haml-loader",
+  "name": "hamljs-haml-loader",
   "version": "1.0.1",
-  "description": "haml-loader fork; webpack loader using 'haml' instead of 'haml-coffee'",
+  "description": "haml-loader fork; webpack loader using 'hamljs' instead of 'haml' or 'haml-coffee'",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   },
   "homepage": "https://www.npmjs.com/package/haml-haml-loader",
   "dependencies": {
-    "haml": "^0.4.3",
+    "hamljs": "git+https://github.com/sedgey01/haml.js.git",
     "loader-utils": "0.2.x"
   }
 }
