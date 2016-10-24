@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/newrelic-forks/haml-loader.git"
+    "url": "https://github.com/MagicCarpetSoftware/haml-loader.git"
   },
   "author": {
     "name": "Alexander Pavlenko"
@@ -16,7 +16,7 @@
   },
   "homepage": "https://www.npmjs.com/package/haml-haml-loader",
   "dependencies": {
-    "hamljs": "git+https://github.com/sedgey01/haml.js.git",
+    "hamljs": "git+https://github.com/MagicCarpetSoftware/haml-compiler.git",
     "loader-utils": "0.2.x"
   }
 }
